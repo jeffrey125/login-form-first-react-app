@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='number'],
+input[type='text'] {
+  @apply w-full focus:ring-1 focus:border-white h-16 text-3xl;
+}
