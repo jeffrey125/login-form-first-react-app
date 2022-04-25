@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Container from './components/UI/Container';
 import NewUser from './components/NewUser/NewUser';
 import UserList from './components/UserList/UserList';
-import ErrorModal from './components/UI/ErrorModal';
 import './App.css';
 
 function App() {

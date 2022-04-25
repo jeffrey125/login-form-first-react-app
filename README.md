@@ -11,3 +11,7 @@ The link for the webapp is: https://login-form-first-react-app.vercel.app/
 -Delete Functionality
 
 -Edit Functionality
+
+-Media Queries for all devices
+
+-Refactoring of code by eliminating nested Div using Wrapper Helper or React Fragment and React Portal for the Error Modal
